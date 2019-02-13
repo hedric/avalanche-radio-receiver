@@ -1,0 +1,20 @@
+gr-osmosdr
+  Depends: python
+  Depends: python
+  Depends: <python:any>
+    python:i386
+    python
+  Depends: <python:any>
+    python:i386
+    python
+  Depends: libboost-system1.65.1
+  Depends: libc6
+  Depends: libgcc1
+  Depends: libgnuradio-osmosdr0.1.4
+  Depends: libgnuradio-pmt3.7.11
+  Depends: libgnuradio-runtime3.7.11
+  Depends: libpython2.7
+  Depends: libstdc++6
+  Recommends: gnuradio
+    gnuradio:i386
+  Recommends: gr-fosphor

@@ -1,0 +1,65 @@
+gnuradio
+  Depends: libvolk1-bin
+  Depends: python-cheetah
+  Depends: python-gtk2
+  Depends: python-lxml
+  Depends: python-numpy
+  Depends: python-opengl
+  Depends: python-pyqt5
+  Depends: python-sip
+  Depends: python-wxgtk3.0
+  Depends: python-zmq
+  Depends: python
+  Depends: python
+  Depends: <python:any>
+    python:i386
+    python
+  Depends: <python:any>
+    python:i386
+    python
+  Depends: libboost-program-options1.65.1
+  Depends: libboost-system1.65.1
+  Depends: libboost-thread1.65.1
+  Depends: libc6
+  Depends: libcodec2-0.7
+  Depends: libgcc1
+  Depends: libgnuradio-analog3.7.11
+  Depends: libgnuradio-atsc3.7.11
+  Depends: libgnuradio-audio3.7.11
+  Depends: libgnuradio-blocks3.7.11
+  Depends: libgnuradio-channels3.7.11
+  Depends: libgnuradio-comedi3.7.11
+  Depends: libgnuradio-digital3.7.11
+  Depends: libgnuradio-dtv3.7.11
+  Depends: libgnuradio-fcd3.7.11
+  Depends: libgnuradio-fec3.7.11
+  Depends: libgnuradio-fft3.7.11
+  Depends: libgnuradio-filter3.7.11
+  Depends: libgnuradio-noaa3.7.11
+  Depends: libgnuradio-pager3.7.11
+  Depends: libgnuradio-pmt3.7.11
+  Depends: libgnuradio-qtgui3.7.11
+  Depends: libgnuradio-runtime3.7.11
+  Depends: libgnuradio-trellis3.7.11
+  Depends: libgnuradio-uhd3.7.11
+  Depends: libgnuradio-video-sdl3.7.11
+  Depends: libgnuradio-vocoder3.7.11
+  Depends: libgnuradio-wavelet3.7.11
+  Depends: libgnuradio-wxgui3.7.11
+  Depends: libgnuradio-zeromq3.7.11
+  Depends: liblog4cpp5v5
+  Depends: libpython2.7
+  Depends: libqt5core5a
+  Depends: libqt5widgets5
+  Depends: libstdc++6
+  Depends: libuhd003.010.003
+  Recommends: gnuradio-dev
+  Recommends: python-matplotlib
+  Recommends: python-networkx
+  Recommends: <python-qwt-qt5>
+  Recommends: python-scipy
+  Recommends: python-tk
+  Recommends: rtl-sdr
+  Recommends: uhd-host
+  Suggests: gr-fosphor
+  Suggests: gr-osmosdr

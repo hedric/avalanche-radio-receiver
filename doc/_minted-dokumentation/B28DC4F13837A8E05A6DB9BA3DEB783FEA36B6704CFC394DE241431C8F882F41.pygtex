@@ -1,0 +1,22 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+gr\PYGZhy{}osmosdr
+  Depends: python
+  Depends: python
+  Depends: \PYGZlt{}python:any\PYGZgt{}
+    python:i386
+    python
+  Depends: \PYGZlt{}python:any\PYGZgt{}
+    python:i386
+    python
+  Depends: libboost\PYGZhy{}system1.65.1
+  Depends: libc6
+  Depends: libgcc1
+  Depends: libgnuradio\PYGZhy{}osmosdr0.1.4
+  Depends: libgnuradio\PYGZhy{}pmt3.7.11
+  Depends: libgnuradio\PYGZhy{}runtime3.7.11
+  Depends: libpython2.7
+  Depends: libstdc++6
+  Recommends: gnuradio
+    gnuradio:i386
+  Recommends: gr\PYGZhy{}fosphor
+\end{Verbatim}

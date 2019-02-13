@@ -1,0 +1,3 @@
+firdes.low_pass_2(1, samp_rate, samp_rate_decimated*0.5 , samp_rate_decimated/4 , 70        , firdes.WIN_HAMMING, 6.76)
+firdes.low_pass_2(1, samp_rate, cutoff                  , trans_width           , attenDb   , window            , beta)
+firdes.low_pass  (1, samp_rate, cutoff                  , trans_width                       , window            , beta)

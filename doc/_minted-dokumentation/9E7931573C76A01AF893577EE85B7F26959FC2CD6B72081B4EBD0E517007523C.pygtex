@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    killall \PYGZhy{}9 python2 dsp.py
+    killall \PYGZhy{}9 python2 detection.py
+\end{Verbatim}
